@@ -1,0 +1,11 @@
+http://che35tnut.github.io/2023/03/17/20230317-Codeql-javac%E7%BC%96%E8%AF%91%E9%A1%B9%E7%9B%AE/
+http://che35tnut.github.io/2022/04/13/220413-DongTaiVulCheck/
+http://che35tnut.github.io/2021/10/09/211019-CodeQL-Java-Basic/
+http://che35tnut.github.io/2021/11/29/211129-Java-CommonsCollections-Deserialization/
+http://che35tnut.github.io/2021/09/06/210906-CodeQL-Basic/
+http://che35tnut.github.io/2021/09/02/210902-Java-CAS-Deserialization/
+http://che35tnut.github.io/2021/08/25/210825-Java-Security-Basic1/
+http://che35tnut.github.io/
+http://che35tnut.github.io/tags/Java/
+http://che35tnut.github.io/tags/IAST/
+http://che35tnut.github.io/tags/CodeQL/
